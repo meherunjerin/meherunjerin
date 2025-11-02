@@ -1,21 +1,22 @@
 # 👋 Hi! I'm Meherun Jerin  
-💻 Front-End Web Developer | UI/UX Enthusiast | Tech Learner  
-📍 Location: Chattogram, Bangladesh  
+💻 Front-End Developer | Research Enthusiast | Creative Coder  
+📍 Chattogram, Bangladesh  
 ✉️ Email: [meherunesa1620@gmail.com]  
 
 ---
 
 ## 👇 About Me
-I’m a passionate **Front-End Developer** focused on building clean, responsive, and user-friendly web interfaces.  
-I love blending **creativity, performance, and usability** to deliver meaningful digital experiences.  
-Currently exploring **modern web technologies** and how **AI tools** can make development smarter and faster.  
+I’m a passionate **Web Developer and Research Learner** who enjoys turning ideas into impactful digital products.  
+I love working on **creative interfaces, data visualization, and real-world problem-solving projects** that combine innovation and teamwork.  
+Currently exploring **Next.js**, **AI-integrated tools**, and **3D visualization** for smarter, immersive web experiences.
 
 ---
 
-## ⚡️ Currently Working On
-🚀 Building a responsive portfolio using React and TailwindCSS  
-🎨 Designing creative UI components for modern web apps  
-💡 Learning Next.js and exploring AI-powered web solutions  
+## ⚡️ What I’m Doing
+🚀 Developing responsive and user-focused websites  
+🧠 Experimenting with AI and automation in web apps  
+🌍 Collaborating on IEEE, NASA Space Apps, and university tech projects  
+🎨 Designing clean, modern UIs using React & TailwindCSS  
 
 ---
 
@@ -24,10 +25,10 @@ Currently exploring **modern web technologies** and how **AI tools** can make de
 | Category | Technologies |
 |-----------|--------------|
 | **Languages** | HTML • CSS • JavaScript |
-| **Frontend** | React • TailwindCSS • Bootstrap |
+| **Frontend** | React • TailwindCSS • Bootstrap • Next.js |
 | **Backend** | Node.js • Express.js (basic) |
 | **Database** | MongoDB • Firebase |
-| **Tools** | Git • GitHub • VS Code • Figma |
+| **Tools & Platforms** | Git • GitHub • VS Code • Figma • Canva |
 
 ---
 
@@ -37,37 +38,50 @@ Currently exploring **modern web technologies** and how **AI tools** can make de
 
 ---
 
+## 📌 Featured Works
+
+### 🧭 **Nagorik Kontho**
+📢 A civic engagement web platform promoting citizen awareness and digital participation.  
+**Tech Stack:** React, TailwindCSS, Firebase  
+
+---
+
+### 🌊 **FloodGuard 3D Map**
+🛰️ A NASA Space Apps Challenge project — visualizing flood-prone zones using satellite data and 3D mapping.  
+**Tech Stack:** JavaScript, Mapbox, OpenWeather API  
+
+---
+
+### 🍔 **Jerin Food Delivery**
+🚴‍♀️ A full-stack food ordering web app with a clean UI and Firebase authentication.  
+**Tech Stack:** React, Firebase, Node.js  
+
+---
+
+### 🪐 **NASA Space 2024 – Team SUPTO**
+🌍 Collaborative project under NASA Space Apps Challenge 2024 focusing on sustainable technology and earth data visualization.  
+
+---
+
+### 🎮 **Make My Game 05**
+🎨 A fun web-based mini-game prototype created with HTML, CSS, and JS for interactive design learning.  
+
+---
+
+### 💼 **Jerin Folio Glow**
+✨ My personal portfolio showcasing projects, UI/UX skills, and achievements.  
+**Tech Stack:** Next.js, TailwindCSS  
+
+---
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meherunjerin&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meherunjerin&layout=compact&theme=radical)
 
 ---
 
-## 📌 Featured Projects
-
-### ✅ Project 1: Personal Portfolio Website
-**Description:**  
-🎯 A clean, fully responsive personal portfolio showcasing skills, projects, and achievements.  
-**Tech Stack:** React, TailwindCSS, GitHub Pages
-
----
-
-### ✅ Project 2: Recipe Finder App
-**Description:**  
-🍳 A recipe search web app using an external API to suggest meals based on ingredients.  
-**Tech Stack:** HTML, CSS, JavaScript, Edamam API
-
----
-
-### ✅ Project 3: To-Do Manager
-**Description:**  
-🗂️ A minimalist to-do application for daily productivity.  
-**Tech Stack:** React, Firebase, TailwindCSS
-
----
-
-💬 *Always learning, always improving.*  
-✨ *Let’s build something amazing together!*
+💬 *I believe teamwork and creativity can change how we see technology.*  
+🌸 *Always learning, always growing.*  
 
 ---
 
