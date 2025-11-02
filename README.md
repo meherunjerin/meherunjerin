@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/meherunjerin/meherunjerin/blob/main/meherun.png" alt="meherun" width="100%" />
+</p>
+
+
+
 # 👋 Hi! I'm Meherun Jerin  
 💻 Front-End Developer | Research Enthusiast | Creative Coder  
 📍 Chattogram, Bangladesh  
